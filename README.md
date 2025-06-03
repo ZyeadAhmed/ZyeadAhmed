@@ -3,7 +3,7 @@
 <h3 align="center">Back-End Developer ⚙️ | Aspiring Data Engineer 📊 | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zyead-ahmed-7ab51b292/"><img src="https://img.shields.io/badge/Ziad%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a
+  <a href="https://www.linkedin.com/in/zyead-ahmed-7ab51b292/"><img src="https://img.shields.io/badge/Zyead%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a
   <a href="https://github.com/ZyeadAhmed"><img src="https://img.shields.io/badge/GitHub-ziadahmed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
  
 </p>
