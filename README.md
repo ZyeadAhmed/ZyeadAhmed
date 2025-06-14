@@ -32,11 +32,6 @@ const ziadAhmed = {
   mindset: "Code smart, scale with data."
 };
 
-🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,php,dotnet,csharp,mysql,postgres,mongodb,redis,docker,linux,git,github" /> <br /> <img src="https://skillicons.dev/icons?i=python,kafka,airflow,aws" /> </p>
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ziadahmed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadahmed&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
 🎯 Current Focus
 
@@ -49,4 +44,3 @@ const ziadAhmed = {
 🔄 Creating data pipelines and learning tools like Kafka, Airflow
 
 ☁️ Deploying apps & data workflows on cloud platforms (AWS/GCP)
-</html>
