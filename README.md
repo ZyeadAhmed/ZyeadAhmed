@@ -37,6 +37,6 @@ highly motivated and results-driven professional seeking a data analyst position
 
 ### Connect with Me :
 
-<a href=https://www.linkedin.com/in/zyead-ahmed-7ab51b292/ target="_blank"><img src="https://img.shields.io/badge/-mariam%20hossam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href=https://www.linkedin.com/in/zyead-ahmed-7ab51b292/ target="_blank"><img src="https://img.shields.io/badge/-Zyead%20Ahmed -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
