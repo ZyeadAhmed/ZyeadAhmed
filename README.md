@@ -1,46 +1,42 @@
-<html>
-<h1 align="center">Hi, I'm Zyead Ahmed 👋</h1>
-<h3 align="center">Data Analyst 📊 | Aspiring Data Engineer 📊 | Lifelong Learner 🚀</h3>
+
+
+# Zyead-Ahmed 
+I am a Student of computer science with a passion for data analysis. proficient in Python, SQL and Excel. Skilled in data visualization using tools such as Matplotlib and Power BI, with expertise in statistical analysis
+and problem-solving. Dedicated to continuous learning and leveraging data-driven insights for impactful solutions.
+highly motivated and results-driven professional seeking a data analyst position.
+
+
+<h3 align="center">
+  Welcome to Zyead's profile!
+</h3>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zyead-ahmed-7ab51b292/"><img src="https://img.shields.io/badge/Zyead%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a
-  <a href="https://github.com/ZyeadAhmed"><img src="https://img.shields.io/badge/GitHub-zyeadahmed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?lines=Data+Engineer;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
+</a>
+
 </p>
 
----
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+# Skills:
 
-## 🚀 About Me
-
-```js
-const ziadAhmed = {
-  role: "Back-End Developer",
-  mainStacks: ["Node.js", "PHP", "C# / .NET"],
-  learningPath: "Data Engineering | Big Data",
-  databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-  dataSkills: ["SQL", "NoSQL", "Data Visualization"],
-  interests: [
-    "Building APIs",
-    "Data Pipelines",
-    "ETL Processes",
-    "System Design",
-    "Streaming & Batch Data",
-    "Dashboarding"
-  ],
-  mindset: "Code smart, scale with data."
-};
+* Languages: C++, Python, SQL
+* Databases: SQL Server
+* NoSQL: MongoDB
+* Big Data : Apache Hadoop , Apache Spark , Apache Kafka
+* ETL: SSIS , Talend
+* Tools: Apache Airflow , Linux , Docker , Jenkins
+* Concepts: OOP, Data warehousing , Big Data
+* Cloud Computing: AWS ( IAM , S3, EC2,VPCs , Lambda )
+* Python: NumPy , Pandas , Matplotlib
+* Web Scraping: BeautifulSoup , Selenium
+*  Data Visualization : Microsoft Excel , Power BI , Tableau
 
 
-🎯 Current Focus
 
-🧱 Building & optimizing REST APIs using Node.js, PHP, and .NET
+### Connect with Me :
 
-📊 Working with both SQL and NoSQL databases efficiently
+<a href=https://www.linkedin.com/in/zyead-ahmed-7ab51b292/ target="_blank"><img src="https://img.shields.io/badge/-mariam%20hossam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-📈 Practicing data visualization for insights and dashboarding
 
-🔄 Creating data pipelines and learning tools like Kafka, Airflow
-
-☁️ Deploying apps & data workflows on cloud platforms (AWS/GCP)
